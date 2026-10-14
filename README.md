@@ -1,6 +1,8 @@
 # Enigmix Privacy Policy
 
-**Effective date: July 13, 2026**
+**Effective date: October 14, 2026**
+
+> This policy now also lives at **https://dadmadeanapp.com/enigmix/privacy/**. Both copies are identical.
 
 Enigmix is a daily codebreaking puzzle game for iOS, made by a solo developer. This policy explains what data the app touches and where it goes. The short version: **we run no servers, we have no accounts, and we never see your data.**
 
@@ -10,7 +12,7 @@ Enigmix is a daily codebreaking puzzle game for iOS, made by a solo developer. T
 
 ## Data stored on your device and in your iCloud
 
-Your game progress (solved puzzles, streaks, XP, settings) is stored:
+Your game progress (solved puzzles, streaks, XP, magnifying glasses, settings) is stored:
 
 - **On your device**, and
 - **In your private iCloud database (CloudKit)**, so progress syncs across your own devices.
@@ -23,13 +25,15 @@ If you are signed in to Game Center, Enigmix submits your daily score, weekly XP
 
 ## Purchases
 
-The optional one-time "Enigmix Pro" purchase is processed entirely by Apple through the App Store. We never see your payment information.
+Enigmix Pro is optional and offered two ways: **Pro Monthly**, an auto-renewing subscription, and **Pro Lifetime**, a one-time purchase. Both are processed entirely by Apple through the App Store. We never see your payment information. Manage or cancel a subscription in your Apple Account subscription settings.
 
 ## Advertising
 
-Free players can *optionally* watch rewarded video ads (for hints and similar boosts). The daily puzzle is always playable without watching any ad.
+Enigmix never shows pop-up ads. Free players can *optionally* tap to watch a rewarded video for magnifying glasses, an extra practice puzzle, or a streak repair. The daily puzzle is always playable without watching any ad.
 
 Ads are served by **Google AdMob**, configured for **non-personalized ads only**. Enigmix does not request App Tracking Transparency permission and does not track you across apps or websites. To serve and measure non-personalized ads, Google may process limited device information (such as device model, coarse general location derived from IP address, and non-advertising identifiers). See [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
+
+Where the law requires it (such as in the EEA and UK), Enigmix asks for your consent through Google's consent form before requesting any ad, and you can change or withdraw it any time in **Settings › About › Privacy Choices** (shown in those regions).
 
 Enigmix Pro removes even these optional ads.
 
